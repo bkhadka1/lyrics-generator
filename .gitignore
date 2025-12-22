@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Data files (too large for GitHub)
+data/
+data_merged/
+data_cleaned/
+*.jsonl
+*.csv
+*.zip
+
+# Model files (hosted on HuggingFace)
+lyrics_model/
+checkpoints/
+*.bin
+*.safetensors
+
+# Secrets
+.streamlit/secrets.toml
+huggingface_token.txt
+kaggle.json
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
