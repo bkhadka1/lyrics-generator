@@ -19,14 +19,20 @@ data_cleaned/
 
 # Model files (hosted on HuggingFace)
 lyrics_model/
+lyrics_model_final/
 checkpoints/
 *.bin
 *.safetensors
 
 # Secrets
 .streamlit/secrets.toml
+.streamlit/secrets.toml.example
 huggingface_token.txt
+huggingface_model_id.txt
 kaggle.json
+
+# Test files
+test_app.py
 
 # IDEs
 .vscode/
