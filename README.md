@@ -4,7 +4,7 @@ An AI-powered web app that generates original song lyrics using a fine-tuned GPT
 
 ## 🚀 Live Demo
 
-[Try it here!](YOUR_STREAMLIT_URL)
+[Try it here!](https://bkhadka-lyrics-gen.streamlit.app/)
 
 ## Features
 
